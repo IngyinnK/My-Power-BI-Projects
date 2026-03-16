@@ -108,19 +108,27 @@ By combining multiple visualisations into a single report, the project transform
 
 ---
 
-# 🖥️ Sample Dashboards
+## 🖥️ Sample Dashboards
 
 <img width="788" height="444" alt="image" src="https://github.com/user-attachments/assets/c75f3f92-682f-4656-b7b0-a2b4c7024199" />
 
+---
+
 <img width="788" height="445" alt="image" src="https://github.com/user-attachments/assets/713b724d-4bbd-4acf-b2cf-837a2e426ca6" />
+
+---
 
 <img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/00774258-3bd4-43d1-9879-6ced35b4a6d0" />
 
+---
+
 <img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/600df5f7-d851-4ae8-8879-b9c1d6d9f0bb" />
+
+---
 
 <img width="788" height="481" alt="image" src="https://github.com/user-attachments/assets/9e8dbed9-7221-4e00-a4c6-8bd4ddcd30e4" />
 
-
+---
 
 
 
